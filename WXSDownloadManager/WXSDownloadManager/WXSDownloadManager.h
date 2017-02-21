@@ -10,4 +10,6 @@
 
 @interface WXSDownloadManager : NSObject
 
+
+
 @end
